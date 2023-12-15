@@ -1,0 +1,7 @@
+C:\phase 3\day7\ConAppAssignment7\bin\Debug\ConAppAssignment7.exe.config
+C:\phase 3\day7\ConAppAssignment7\bin\Debug\ConAppAssignment7.exe
+C:\phase 3\day7\ConAppAssignment7\bin\Debug\ConAppAssignment7.pdb
+C:\phase 3\day7\ConAppAssignment7\obj\Debug\ConAppAssignment7.csproj.AssemblyReference.cache
+C:\phase 3\day7\ConAppAssignment7\obj\Debug\ConAppAssignment7.csproj.CoreCompileInputs.cache
+C:\phase 3\day7\ConAppAssignment7\obj\Debug\ConAppAssignment7.exe
+C:\phase 3\day7\ConAppAssignment7\obj\Debug\ConAppAssignment7.pdb
